@@ -1,0 +1,1 @@
+# Strind_Vowel_Constant
